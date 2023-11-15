@@ -1,2 +1,2 @@
-# archcraft-bspwm
+# archx-bspwm
  // Configuration : Bspwm

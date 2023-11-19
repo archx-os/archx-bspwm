@@ -5,7 +5,7 @@ pkgver=1.0
 pkgrel=1
 pkgdesc="Bspwm Configurations for ArchX"
 arch=('any')
-url="https://github.com/archcraft-os/archcraft-bspwm"
+url="https://github.com/archx-os/archx-bspwm"
 license=('GPL3')
 depends=(
 	'bspwm' 'sxhkd' 'feh' 'xsettingsd'

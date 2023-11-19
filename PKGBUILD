@@ -10,7 +10,7 @@ license=('GPL3')
 depends=(
 	'bspwm' 'sxhkd' 'feh' 'xsettingsd'
 	'pulsemixer' 'light' 'polybar' 'rofi' 'dunst'
-	'pastel' 'python-pywal'
+	'pastel' 'python-pywal' 'papirus-icon-theme'
 )
 optdepends=(
 	'alacritty: default terminal emulator'

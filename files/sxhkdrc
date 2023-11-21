@@ -27,8 +27,8 @@ alt + F2
 	rofi_runner
 
 # Rofi Menus/Applets
-super + {b,m,n,r,s,t,w,x}
-	{rofi_bluetooth,rofi_music,nmd,rofi_screenshot,rofi_themes,rofi_windows,rofi_powermenu}
+super + {b,s,t,w,x}
+	{rofi_bluetooth,rofi_screenshot,rofi_themes,rofi_windows,rofi_powermenu}
 
 ##---------- Applications ----------##
 

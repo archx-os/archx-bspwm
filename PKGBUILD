@@ -8,9 +8,10 @@ arch=('any')
 url="https://github.com/archx-os/archx-bspwm"
 license=('GPL3')
 depends=(
-	'bspwm' 'sxhkd' 'feh' 'xsettingsd'
+	'xorg' 'bspwm' 'sxhkd' 'feh' 'xsettingsd'
 	'pulsemixer' 'light' 'polybar' 'rofi' 'dunst'
 	'pastel' 'python-pywal' 'papirus-icon-theme'
+	'noto-fonts' 'ttf-iosevka-nerd'
 )
 optdepends=(
 	'alacritty: default terminal emulator'
